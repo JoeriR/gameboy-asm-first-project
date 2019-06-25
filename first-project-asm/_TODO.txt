@@ -1,0 +1,14 @@
+Fix the fireball code,          DONE
+
+Implement collision detection   DONE
+
+Use RNG for enemy respawn       DONE
+
+Create tiles for score          DONE
+Count and display score         DONE
+
+Quality of life changes         DONE
+  1. A-press instead of hold    
+  2. Display text during pauze
+
+Use interrupts                  DONE
